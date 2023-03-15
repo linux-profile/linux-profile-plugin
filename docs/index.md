@@ -5,12 +5,10 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/MyLinuxProfile?label=LinuxProfile&style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/MyLinuxProfile/linux-profile-plugin?style=flat-square)
 ![PyPI](https://img.shields.io/pypi/v/linuxp-plugin)
-![PyPI - Downloads](https://img.shields.io/pypi/dm/linuxp-plugin?style=flat-square)
 
 [![check](https://github.com/MyLinuxProfile/linux-profile-plugin/actions/workflows/python-publish-pypi.yml/badge.svg)](https://github.com/MyLinuxProfile/linux-profile-plugin/actions/workflows/python-publish-pypi.yml)
 [![check](https://github.com/MyLinuxProfile/linux-profile-plugin/actions/workflows/python-publish-pypi-test.yml/badge.svg)](https://github.com/MyLinuxProfile/linux-profile-plugin/actions/workflows/python-publish-pypi-test.yml)
 [![check](https://github.com/MyLinuxProfile/linux-profile-plugin/actions/workflows/python-app-code.yml/badge.svg)](https://github.com/MyLinuxProfile/linux-profile-plugin/actions/workflows/python-app-code.yml)
-
 ---
 
 - **Documentation**: [https://docs.linuxprofile.com](https://docs.linuxprofile.com)
