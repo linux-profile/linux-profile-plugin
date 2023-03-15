@@ -20,7 +20,7 @@ setup(
     version=__version__,
     author="Fernando Celmer",
     author_email="email@fernandocelmer.com",
-    description="🐧 Linux Profile Management CLI Tool",
+    description="🐧 Plugin Linux Profile",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/MyLinuxProfile/linux-profile",
