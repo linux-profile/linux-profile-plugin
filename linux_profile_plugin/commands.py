@@ -25,7 +25,7 @@ class Explore(Command):
             "path_temp",
             "file_config",
             "file_profile"]
-        
+
         for config in configs:
             if hasattr(settings, config):
                 print(f"{config}:".rjust(15), getattr(settings, config))
