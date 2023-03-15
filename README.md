@@ -1,11 +1,9 @@
-# Welcome to LinuxProfile
-
-<img src="https://github.com/MyLinuxProfile/linux-profile-plugin/blob/master/docs/linuxp.png?raw=true">
+# linux-profile-plugin
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/MyLinuxProfile?label=LinuxProfile&style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/MyLinuxProfile/linux-profile-plugin?style=flat-square)
 ![PyPI](https://img.shields.io/pypi/v/linuxp-plugin)
-![PyPI - Downloads](https://img.shields.io/pypi/dm/linuxp-plugin?style=flat-square)
+
 
 [![check](https://github.com/MyLinuxProfile/linux-profile-plugin/actions/workflows/python-publish-pypi.yml/badge.svg)](https://github.com/MyLinuxProfile/linux-profile-plugin/actions/workflows/python-publish-pypi.yml)
 [![check](https://github.com/MyLinuxProfile/linux-profile-plugin/actions/workflows/python-publish-pypi-test.yml/badge.svg)](https://github.com/MyLinuxProfile/linux-profile-plugin/actions/workflows/python-publish-pypi-test.yml)
