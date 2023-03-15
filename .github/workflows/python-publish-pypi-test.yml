@@ -27,7 +27,7 @@ jobs:
 
     - name: 📝️ Code Scan
       run: |
-        flake8 linux_profile/ --count --show-source --statistics --ignore=E501
+        flake8 linux_profile_plugin/ --count --show-source --statistics --ignore=E501
 
     - name: 📦 Build Package
       run: python -m build
