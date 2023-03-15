@@ -47,6 +47,6 @@ setup(
     zip_safe=True,
     fullname='linuxp-plugin',
     entry_points={
-        'console_scripts': ['linuxp=linux_profile_plugin.main:main'],
+        'console_scripts': ['linuxp_plugin=linux_profile_plugin.main:main'],
     },
 )
