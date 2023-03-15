@@ -17,15 +17,15 @@ class ArgsCommand(BaseCommand):
     def setup_hello(self):
         """Argument loading method for the new command.
         """
-        self.cmd_hello = self.subparsers.add_parser('hello', help="My custom command")
-        self.cmd_hello = self.cmd_hello.add_argument_group('Usage: linuxp hello [OPTIONS]')
+        self.cmd_hello = self.subparsers.add_parser('hello', help="My custom command.")
+        self.cmd_hello = self.cmd_hello.add_argument_group('Usage: linuxp_plugin hello [OPTIONS]')
         self.cmd_hello.add_argument('--message')
 
     def setup_explore(self):
         """Argument loading method for the new command.
         """
-        self.cmd_explore = self.subparsers.add_parser('explore', help="This command shows some settings")
-        self.cmd_explore = self.cmd_explore.add_argument_group('Usage: linuxp explore [OPTIONS]')
+        self.cmd_explore = self.subparsers.add_parser('explore', help="This command shows some settings.")
+        self.cmd_explore = self.cmd_explore.add_argument_group('Usage: linuxp_plugin explore [OPTIONS]')
 
 
 class Build(BuildCommand):
