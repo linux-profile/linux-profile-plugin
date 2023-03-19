@@ -1,4 +1,4 @@
-# Welcome to LinuxProfile
+# Welcome to LinuxProfile Plugin
 
 <img src="https://github.com/MyLinuxProfile/linux-profile-plugin/blob/master/docs/linuxp.png?raw=true">
 
@@ -9,6 +9,7 @@
 [![check](https://github.com/MyLinuxProfile/linux-profile-plugin/actions/workflows/python-publish-pypi.yml/badge.svg)](https://github.com/MyLinuxProfile/linux-profile-plugin/actions/workflows/python-publish-pypi.yml)
 [![check](https://github.com/MyLinuxProfile/linux-profile-plugin/actions/workflows/python-publish-pypi-test.yml/badge.svg)](https://github.com/MyLinuxProfile/linux-profile-plugin/actions/workflows/python-publish-pypi-test.yml)
 [![check](https://github.com/MyLinuxProfile/linux-profile-plugin/actions/workflows/python-app-code.yml/badge.svg)](https://github.com/MyLinuxProfile/linux-profile-plugin/actions/workflows/python-app-code.yml)
+
 ---
 
 - **Documentation**: [https://docs.linuxprofile.com](https://docs.linuxprofile.com)
@@ -16,9 +17,13 @@
 
 ---
 
-## Introduction
+## Installation
 
-Linux Profile is a Linux profile management tool. With this project it is possible, from commands executed in the console, to create a 'json' file to store backup configurations. such as information about installed packages, alias. It also allows with a single command to restore saved configurations.
+- **Install - Pypi/PIP**
+
+```
+pip install -U linuxp-plugin
+```
 
 ## Commands
 

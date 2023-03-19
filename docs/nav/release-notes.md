@@ -1,5 +1,9 @@
 # Release Notes
 
+## v1.0.1
+
+- [📦 PyPI - Build 1.0.1](https://github.com/MyLinuxProfile/linux-profile-plugin/releases/tag/v1.0.1)
+
 ## v1.0.0
 
 - [📦 PyPI - Build 1.0.0](https://github.com/MyLinuxProfile/linux-profile-plugin/releases/tag/v1.0.0)
