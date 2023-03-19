@@ -1,5 +1,3 @@
-# linux-profile-plugin
-
 <img src="https://github.com/MyLinuxProfile/linux-profile-plugin/blob/master/docs/linuxp.png?raw=true">
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/MyLinuxProfile?label=LinuxProfile&style=flat-square)
@@ -17,7 +15,7 @@
 
 ---
 
-# [Installation](https://docs.linuxprofile.com/nav/installation/)
+## Installation
 
 - **Install - Pypi/PIP**
 
