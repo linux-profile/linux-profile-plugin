@@ -1,7 +1,7 @@
 site_name: LinuxProfile
 site_url: http://linuxprofile.com
-repo_name: MyLinuxProfile/linux-profile-plugin
-repo_url: https://github.com/MyLinuxProfile/linux-profile-plugin
+repo_name: linux-profile/linux-profile-plugin
+repo_url: https://github.com/linux-profile/linux-profile-plugin
 
 nav:
     - Home: index.md
@@ -32,4 +32,4 @@ extra_css:
 extra:
   social:
     - icon: fontawesome/brands/github 
-      link: https://github.com/MyLinuxProfile
+      link: https://github.com/linux-profile

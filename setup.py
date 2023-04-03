@@ -23,7 +23,7 @@ setup(
     description="🐧 Plugin Linux Profile",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/MyLinuxProfile/linux-profile-plugin",
+    url="https://github.com/linux-profile/linux-profile-plugin",
     cmdclass={
         'install': CustomInstallCommand,
     },

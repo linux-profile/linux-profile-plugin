@@ -1,17 +1,17 @@
-<img src="https://github.com/MyLinuxProfile/linux-profile-plugin/blob/master/docs/linuxp.png?raw=true">
+<img src="https://github.com/linux-profile/linux-profile-plugin/blob/master/docs/linuxp.png?raw=true">
 
-![GitHub Org's stars](https://img.shields.io/github/stars/MyLinuxProfile?label=LinuxProfile&style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/MyLinuxProfile/linux-profile-plugin?style=flat-square)
+![GitHub Org's stars](https://img.shields.io/github/stars/linux-profile?label=LinuxProfile&style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/linux-profile/linux-profile-plugin?style=flat-square)
 ![PyPI](https://img.shields.io/pypi/v/linuxp-plugin)
 
-[![check](https://github.com/MyLinuxProfile/linux-profile-plugin/actions/workflows/python-publish-pypi.yml/badge.svg)](https://github.com/MyLinuxProfile/linux-profile-plugin/actions/workflows/python-publish-pypi.yml)
-[![check](https://github.com/MyLinuxProfile/linux-profile-plugin/actions/workflows/python-publish-pypi-test.yml/badge.svg)](https://github.com/MyLinuxProfile/linux-profile-plugin/actions/workflows/python-publish-pypi-test.yml)
-[![check](https://github.com/MyLinuxProfile/linux-profile-plugin/actions/workflows/python-app-code.yml/badge.svg)](https://github.com/MyLinuxProfile/linux-profile-plugin/actions/workflows/python-app-code.yml)
+[![check](https://github.com/linux-profile/linux-profile-plugin/actions/workflows/python-publish-pypi.yml/badge.svg)](https://github.com/linux-profile/linux-profile-plugin/actions/workflows/python-publish-pypi.yml)
+[![check](https://github.com/linux-profile/linux-profile-plugin/actions/workflows/python-publish-pypi-test.yml/badge.svg)](https://github.com/linux-profile/linux-profile-plugin/actions/workflows/python-publish-pypi-test.yml)
+[![check](https://github.com/linux-profile/linux-profile-plugin/actions/workflows/python-app-code.yml/badge.svg)](https://github.com/linux-profile/linux-profile-plugin/actions/workflows/python-app-code.yml)
 
 ---
 
 - **Documentation**: [https://docs.linuxprofile.com](https://docs.linuxprofile.com)
-- **Source Code**: [https://github.com/MyLinuxProfile/linux-profile-plugin](https://github.com/MyLinuxProfile/linux-profile-plugin)
+- **Source Code**: [https://github.com/linux-profile/linux-profile-plugin](https://github.com/linux-profile/linux-profile-plugin)
 
 ---
 
