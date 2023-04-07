@@ -25,7 +25,6 @@ SOFTWARE."""
 
 
 __info__ = """
-
 Help: linuxp_plugin --help
 Docs: https://docs.linuxprofile.com/
 =====================================
