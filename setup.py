@@ -28,7 +28,7 @@ setup(
         'install': CustomInstallCommand,
     },
     install_requires=[
-        'linuxp>=1.0.16'
+        'linuxp>=1.0.18'
     ],
     classifiers=[
         'Development Status :: 4 - Beta',
@@ -41,6 +41,7 @@ setup(
         "Programming Language :: Python :: 3.8",
         "Programming Language :: Python :: 3.9",
         "Programming Language :: Python :: 3.10",
+        "Programming Language :: Python :: 3.11",
     ],
     include_package_data=True,
     python_requires=">=3.6",
