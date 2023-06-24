@@ -17,9 +17,13 @@
 
 ## Installation
 
-- **Install - Pypi/PIP**
+ - **Install - PIP**
 
-      pip install -U linuxp-plugin
+      pip install linuxp-plugin
+
+- **Install - Poetry**
+
+      poetry add linuxp-plugin     
 
 ## Commands
 

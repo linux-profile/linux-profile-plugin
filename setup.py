@@ -28,7 +28,7 @@ setup(
         'install': CustomInstallCommand,
     },
     install_requires=[
-        'linuxp>=1.0.18'
+        'linuxp>=1.0.19'
     ],
     classifiers=[
         'Development Status :: 4 - Beta',
