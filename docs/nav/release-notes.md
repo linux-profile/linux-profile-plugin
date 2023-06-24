@@ -1,5 +1,10 @@
 # Release Notes
 
+## v1.0.4
+
+- [📦 PyPI - Build 1.0.4](https://github.com/linux-profile/linux-profile-plugin/releases/tag/v1.0.4)
+- [📌 ISSUE-6 - LinuxProfile version update](https://github.com/linux-profile/linux-profile/issues/6)
+
 ## v1.0.3
 
 - [📦 PyPI - Build 1.0.3](https://github.com/linux-profile/linux-profile-plugin/releases/tag/v1.0.3)

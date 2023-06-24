@@ -19,10 +19,16 @@
 
 ## Installation
 
-- **Install - Pypi/PIP**
+### Install - PIP
 
+```bash
+pip install linuxp-plugin
 ```
-pip install -U linuxp-plugin
+
+### Install - Poetry
+
+```bash
+poetry add linuxp-plugin
 ```
 
 ## Commands
@@ -34,13 +40,16 @@ pip install -U linuxp-plugin
 
 
 ## Commit Style
-- ⚙️ NO-TASK
+
+- ⚙️ FEATURE
 - 📝 PEP8
 - 📌 ISSUE
 - 🪲 BUG
 - 📘 DOCS
 - 📦 PyPI
 - ❤️️ TEST
+- ⬆️ CI/CD
+- ⚠️ SECURITY
 
 ## License
 
